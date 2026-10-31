@@ -405,3 +405,6 @@ override.tf.json
 terraform.rc
 
 # End of https://www.toptal.com/developers/gitignore/api/java,python,dotnetcore,react,node,powershell,terraform
+
+
+These changes are needed to your dotnet project
